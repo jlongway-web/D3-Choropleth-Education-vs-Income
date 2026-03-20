@@ -1,6 +1,6 @@
 # D3-Choropleth-Education-vs-Income
 
-A Bivariate D3 Choropleth showing Education vs Income. Data Sourced from 2023 Census Bureau at Census.gov. Statistics for each state are show upon mouseover.
+A Bivariate D3 Choropleth showing Education vs Income. Data sourced from 2023 Census Bureau at Census.gov. Statistics for each state are show upon mouseover.
 
 
 <img src="images/edvsincome.png" width="800">
